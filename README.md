@@ -1,5 +1,5 @@
 # EduCareer
-AI-powered career guidance platform
+<h4>AI-powered career guidance platform</h4><br>
 EduCareer is an AI-powered platform designed to personalize education and career
 development through advanced learning techniques, such as adaptive learning. By leveraging
 reinforcement learning and natural language processing, EduCareer tailors its approach to
