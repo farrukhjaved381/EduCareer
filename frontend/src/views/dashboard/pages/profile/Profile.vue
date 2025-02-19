@@ -1,5 +1,5 @@
 <template>
-    <h1 class="text-3xl font-bold">Courses</h1>
-    <p>List of Courses will be here.</p>
+    <h1 class="text-3xl font-bold">Profile</h1>
+    <p>User Profile will be here.</p>
   </template>
   
